@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherApp4.MainPage">
+
+    <StackLayout>
+        <Entry x:Name="tb_search" Placeholder="Enter city" />
+        <Button x:Name="tb_btn" Text="Search city" Clicked="GetWeatherForecast" />
+
+        <ScrollView>
+            <StackLayout>
+                <Frame>
+                    <StackLayout>
+                        <Image x:Name="image1" Source="{Binding icon}" WidthRequest="100" HeightRequest="100" />
+                        <Label x:Name="lbl_date_1" Text="{Binding dt2}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_day_1" Text="{Binding dt}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_city_1" Text="{Binding name}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_temp_1" Text="{Binding day}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_wind_1" Text="{Binding speed}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_pressure_1" Text="{Binding pressure}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_humidity_1" Text="{Binding humidity}" HorizontalTextAlignment="Center" />
+                    </StackLayout>
+                </Frame>
+
+                <Frame>
+                    <StackLayout>
+                        <Image x:Name="image2" Source="{Binding icon}" WidthRequest="100" HeightRequest="100" />
+                        <Label x:Name="lbl_city_2" Text="{Binding name}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_day_2" Text="{Binding dt}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_temp_2" Text="{Binding day}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_wind_2" Text="{Binding speed}" HorizontalTextAlignment="Center" />
+                    </StackLayout>
+                </Frame>
+
+                <Frame>
+                    <StackLayout>
+                        <Image x:Name="image3" Source="{Binding icon}" WidthRequest="100" HeightRequest="100" />
+                        <Label x:Name="lbl_city_3" Text="{Binding name}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_day_3" Text="{Binding dt}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_temp_3" Text="{Binding day}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_wind_3" Text="{Binding speed}" HorizontalTextAlignment="Center" />
+                    </StackLayout>
+                </Frame>
+
+                <Frame>
+                    <StackLayout>
+                        <Image x:Name="image4" Source="{Binding icon}" WidthRequest="100" HeightRequest="100" />
+                        <Label x:Name="lbl_city_4" Text="{Binding name}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_day_4" Text="{Binding dt}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_temp_4" Text="{Binding day}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_wind_4" Text="{Binding speed}" HorizontalTextAlignment="Center" />
+                    </StackLayout>
+                </Frame>
+
+                <Frame>
+                    <StackLayout>
+                        <Image x:Name="image5" Source="{Binding icon}" WidthRequest="100" HeightRequest="100" />
+                        <Label x:Name="lbl_city_5" Text="{Binding name}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_day_5" Text="{Binding dt}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_temp_5" Text="{Binding day}" HorizontalTextAlignment="Center" />
+                        <Label x:Name="lbl_wind_5" Text="{Binding speed}" HorizontalTextAlignment="Center" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+
+</ContentPage>

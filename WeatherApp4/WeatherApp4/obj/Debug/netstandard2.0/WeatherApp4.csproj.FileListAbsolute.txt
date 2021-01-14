@@ -1,0 +1,14 @@
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\bin\Debug\netstandard2.0\WeatherApp4.deps.json
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\bin\Debug\netstandard2.0\WeatherApp4.dll
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\bin\Debug\netstandard2.0\ref\WeatherApp4.dll
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\bin\Debug\netstandard2.0\WeatherApp4.pdb
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\WeatherApp4.AssemblyInfoInputs.cache
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\WeatherApp4.AssemblyInfo.cs
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\WeatherApp4.csproj.CoreCompileInputs.cache
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\WeatherApp4.dll
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\ref\WeatherApp4.dll
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\WeatherApp4.pdb
+C:\Users\cmpe.skp\Desktop\H4\AppProgrammering2\WeatherApp4\WeatherApp4\WeatherApp4\obj\Debug\netstandard2.0\WeatherApp4.csprojAssemblyReference.cache
